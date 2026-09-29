@@ -1,0 +1,27 @@
+{
+  "name": "org.shiryu.vrcfuryextensions",
+  "version": "0.3.0",
+  "displayName": "Shiryu VRCFury Extensions",
+  "description": "Reusable VRCFury avatar authoring, build, material-preparation, visibility and runtime QA extensions by Shiryu Studios LLC, driven by scene-bound profiles with stable Unity references.",
+  "unity": "2022.3",
+  "license": "MIT",
+  "documentationUrl": "https://github.com/Shiryu-Studios-LLC/ShiryuVRCFuryExtensions/blob/main/README.md",
+  "changelogUrl": "https://github.com/Shiryu-Studios-LLC/ShiryuVRCFuryExtensions/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/Shiryu-Studios-LLC/ShiryuVRCFuryExtensions/blob/main/LICENSE",
+  "vpmDependencies": {
+    "com.vrcfury.vrcfury": ">=1.1429.0"
+  },
+  "keywords": [
+    "shiryu",
+    "vrchat",
+    "vrcfury",
+    "avatar",
+    "toggles",
+    "radials",
+    "presets"
+  ],
+  "author": {
+    "name": "Shiryu Studios LLC",
+    "url": "https://github.com/Shiryu-Studios-LLC"
+  }
+}
